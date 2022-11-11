@@ -1,0 +1,17 @@
+.button {
+    background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1.25;
+    padding: 16px 39.6px 16px 39.6px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+}
+
+.button--transparent {
+    background: transparent;
+    color: #FF3F3A;
+    border: 1px solid #FF3F3A;
+    padding: 15px 39px 15px 39px;
+}
